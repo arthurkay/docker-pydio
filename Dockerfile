@@ -1,6 +1,6 @@
 # Pull base image.
-FROM kdelfour/supervisor-docker
-MAINTAINER Andreas Löffler <andy@x86dev.com>
+FROM arthurkay/supervisord
+MAINTAINER https://github.com/arthurkay/
 
 # Based on: https://github.com/kdelfour/pydio-docker
 
